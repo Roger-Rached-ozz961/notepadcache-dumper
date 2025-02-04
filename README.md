@@ -52,8 +52,14 @@ python notepad-cacheParser.py
 This project is licensed under the **MIT License**. Feel free to use and modify.
 
 ## 👤 Author
-Roger
+Roger Rached
 
 ---
 
-⚡ **Disclaimer:** This tool is for educational and recovery purposes only. Use responsibly!
+⚠️ Disclaimer
+This tool is intended for educational and recovery purposes only. It should be used responsibly and ethically.
+
+Unauthorized access to system files may violate privacy laws.
+The author is not responsible for any misuse, data loss, or system issues caused by this script.
+Use this tool only on systems you own or have explicit permission to analyze.
+By using this software, you accept full responsibility for any actions taken with it.
