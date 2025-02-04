@@ -27,7 +27,7 @@
 ### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/Roger-Rached-ozz961/notepadcache-dumper.git
-cd Notepad-Cache-Dumper
+cd notepadcache-dumper
 ```
 
 ### 2️⃣ Download `strings64.exe`
@@ -36,10 +36,10 @@ The `strings64.exe` is from Microsoft Sysinternals suite. Which You can get it f
 
 ### 3️⃣ Run the Script
 ```sh
-python notepad_cache_dumper.py
+python notepad-cacheParser.py
 ```
 
-## 🏗️ How to Modify
+## You are free to modify, some examples:
 - **Custom Dump Directory**: Change `dumpfolder_dir` to store extracted text elsewhere.
 - **Alternative Extraction Method**: Modify the `subprocess.run` command to use different string extraction tools.
 
