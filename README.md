@@ -31,7 +31,7 @@ cd Notepad-Cache-Dumper
 ```
 
 ### 2️⃣ Download `strings64.exe`
-Make sure `strings64.exe` is present in the script directory. You can get it from:
+The `strings64.exe` is from Microsoft Sysinternals suite. Which You can get it from:
 - [Microsoft Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/strings)
 
 ### 3️⃣ Run the Script
@@ -46,13 +46,13 @@ python notepad_cache_dumper.py
 ## ⚠️ Limitations
 - Only works with **Microsoft Store version of Notepad**.
 - Cannot recover data if Notepad has been manually closed and cleared.
-- Requires **`strings64.exe`**, which is Windows-specific.
+- Requires **`strings64.exe`**.
 
 ## 📜 License
-This project is licensed under the **MIT License**. Feel free to use and modify!
+This project is licensed under the **MIT License**. Feel free to use and modify.
 
 ## 👤 Author
-Developed by **Ozz961**. If you find this project useful, consider giving it a ⭐.
+Roger
 
 ---
 
