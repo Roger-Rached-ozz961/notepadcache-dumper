@@ -26,7 +26,7 @@
 ## 🔧 Installation & Usage
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/Ozz961/Notepad-Cache-Dumper.git
+git clone https://github.com/Roger-Rached-ozz961/notepadcache-dumper.git
 cd Notepad-Cache-Dumper
 ```
 
